@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello world!
 
-You can use the [editor on GitHub](https://github.com/dosemes/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I hope you are doing great! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am  not sure how you have reached this website, but the thing is that you are here. Just not to make this a total waste of time, I've linked a [kittens video](https://www.youtube.com/watch?v=7yLxxyzGiko) so at least this visit will be useful.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### I can link you a picture too
 
-```markdown
-Syntax highlighted code block
+![Lovely cat](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190517103414-01-grumpy-cat-file-restricted.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Support or Contact?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dosemes/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See you around in Twitter :)
