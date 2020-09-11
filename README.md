@@ -11,4 +11,4 @@ I am  not sure how you have reached this website, but the thing is that you are 
 
 ### Support or Contact?
 
-See you around in Twitter :)
+See you around on Twitter :)
